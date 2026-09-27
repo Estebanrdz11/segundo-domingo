@@ -18,4 +18,3 @@ Console.WriteLine("Su edad es: " + edad);
 Console.WriteLine("Su estatura es: " + estatura);
 
 Console.WriteLine("Hola, mi nombre es: " + nombre    + " " + apellido + " y tengo " + edad + " años y mido " + estatura + " metros.");
-Console.ReadKey();
